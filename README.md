@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Ghibli inspired cozy workspace banner](https://i.pinimg.com/1200x/b6/40/d7/b640d7cb7f9b9f6fc0d869012d1b9e79.jpg)" width="100%" style="border-radius: 15px;">
+  <img src="https://i.pinimg.com/1200x/b6/40/d7/b640d7cb7f9b9f6fc0d869012d1b9e79.jpg" alt="Ghibli inspired cozy workspace banner] width="100%" style="border-radius: 15px;">
 </div>
 
 <h1 align="center">🪴 Hi there, I'm Aaron</h1>
