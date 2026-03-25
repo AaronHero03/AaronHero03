@@ -14,7 +14,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3>🕯️ The Current Chapter</h3>
       <p><i>A quiet corner of the web where I brew code and tend to my digital plants. Always looking for the intersection of technology and art.</i></p>
       <br>
@@ -23,7 +23,7 @@
       <b>👯 Collaborating:</b> Open to open-source!<br>
       <b>📫 Reach me:</b> aaron@example.com
     </td>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>🍂 Language Distribution</h3>
       <img src="https://github-readme-stats-khaki-rho-70.vercel.app/api/top-langs/?username=AaronHero03&layout=compact&bg_color=0f0f0f&title_color=23e889&text_color=ffffff&hide_border=true&border_color=0f0f0f&border_radius=4" alt="Top Languages" width="100%" />
     </td>
