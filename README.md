@@ -25,7 +25,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🍂 Language Distribution</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronHero03&layout=compact&bg_color=363636&title_color=8bf097&text_color=62fc96&hide_border=false&border_color=D4A373&border_radius=4" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-khaki-rho-70.vercel.app/api/top-langs/?username=AaronHero03&layout=compact&bg_color=0f0f0f&title_color=23e889&text_color=ffffff&hide_border=true&border_color=0f0f0f&border_radius=4" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
