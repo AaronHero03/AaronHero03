@@ -20,13 +20,12 @@
 
 <div>
   <p align="left">
-    <b>🔭 Building:</b> [Your Current Project]<br>
+    <b>🔭 Building:</b> Computer vision for Cell Counting<br>
     <b>🌱 Cultivating:</b> Vision Computing<br>
     <b>👯 Collaborating:</b> Open to open-source!<br>
     <b>📫 Reach me:</b> aaron.hero1103@gmail.com
   </p>
 </div>
-<br>
 
 <div>
   <h3 align="left">🪵 My Toolbox</h3>
