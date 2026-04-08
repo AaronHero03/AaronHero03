@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/AaronHero03">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=400&size=16&pause=1000&color=5C704D&center=true&vCenter=true&width=435&lines=Crafting+digital+gardens...;Listening+to+lo-fi+beats...;Writing+cozy,+clean+code..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=17&pause=1000&color=5C704D&center=true&vCenter=true&width=435&lines=Crafting+digital+gardens...;Listening+to+lo-fi+beats...;Writing+clean+code..." alt="Typing SVG" />
   </a>
 </div>
 
